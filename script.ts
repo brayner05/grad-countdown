@@ -1,5 +1,5 @@
 
-const GRADUATION = new Date("2023-06-23");
+const GRADUATION = new Date("2023-06-22");
 
 /**
  * Get the number of days until GRADUATION.

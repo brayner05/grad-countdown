@@ -1,5 +1,5 @@
 "use strict";
-var GRADUATION = new Date("2023-06-23");
+var GRADUATION = new Date("2023-06-22");
 /**
  * Get the number of days until GRADUATION.
  * @returns The number of days until graduation
