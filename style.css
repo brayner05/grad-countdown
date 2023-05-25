@@ -7,7 +7,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-image: url(images/pexels-pixabay-267885.jpg);
+    background-image: url(images/pexels-gül-işık-2293027.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -47,7 +47,7 @@ body {
 #day-counter {
     color: #00085c;
     font-size: 3rem;
-    font-family: "Tilt Prism", sans-serif;
+    font-family: "Anton", sans-serif;
     text-align: center;
 }
 
